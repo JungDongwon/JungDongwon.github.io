@@ -2,6 +2,7 @@ experiences:
 - place: "University of California, Davis"
   time: "Jul. 2024 - Present"
   title: "Ph.D. Student in Computer Science"
+  subtitle: "LUKA Lab"
   category: "school"
 
 - place: "Wrtn Technologies"
@@ -25,5 +26,5 @@ experiences:
 - place: "Sungkyunkwan University"
   time: "Mar. 2016 - Aug. 2022"
   title: "Bachelor of Computer Science and Engineering"
-  subtitle: "Dean's List"
+  subtitle: "LearnData Lab"
   category: "school"
