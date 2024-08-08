@@ -1,0 +1,6 @@
+@article{huang2024planning,
+  title={Planning and Editing What You Retrieve for Enhanced Tool Learning},
+  author={Huang, Tenghao and Jung, Dongwon and Chen, Muhao},
+  journal={arXiv preprint arXiv:2404.00450},
+  year={2024}
+}
