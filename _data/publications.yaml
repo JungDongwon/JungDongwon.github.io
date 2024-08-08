@@ -1,5 +1,5 @@
 papers:
-  - title: "Self-Specialization: Uncovering Latent Expertise within Large Language Models"
+  - title: "Planning and Editing What You Retrieve for Enhanced Tool Learning"
     image: "/assets/publications/2024_PLUTo/figure1.png"
     authors: "Tenghao Huang, <b>Dongwon Jung</b>, Muhao Chen"
     venue: "NAACL 2024 Findings"
