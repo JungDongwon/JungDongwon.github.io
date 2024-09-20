@@ -1,4 +1,11 @@
 papers:
+  - title: "Familiarity-aware Evidence Compression for Retrieval Augmented Generation"
+    image: "/assets/publications/2024_FaviComp/main.png"
+    authors: "<b>Dongwon Jung</b>, Qin Liu, Tenghao Huang, Ben Zhou, Muhao Chen"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/pdf/2409.12468"
+    bibtex: "/assets/publications/2024_FaviComp/bibtex.txt"
+    selected: y
   - title: "Planning and Editing What You Retrieve for Enhanced Tool Learning"
     image: "/assets/publications/2024_PLUTo/figure1.png"
     authors: "Tenghao Huang, <b>Dongwon Jung</b>, Muhao Chen"
