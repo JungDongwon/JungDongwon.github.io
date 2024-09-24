@@ -1,0 +1,6 @@
+@article{jung2024familiarity,
+  title={Familiarity-aware Evidence Compression for Retrieval Augmented Generation},
+  author={Jung, Dongwon and Liu, Qin and Huang, Tenghao and Zhou, Ben and Chen, Muhao},
+  journal={arXiv preprint arXiv:2409.12468},
+  year={2024}
+}
