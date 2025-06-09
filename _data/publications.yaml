@@ -1,4 +1,11 @@
 papers:
+  - title: "Code Execution as Grounded Supervision for LLM Reasoning"
+    image: "/assets/publications/2025_CodeExec/figure1.png"
+    authors: "<b>Dongwon Jung</b>, Wenxuan Zhou, Muhao Chen"
+    venue: "Preprint"
+    # paper_pdf: "https://arxiv.org/pdf/2409.12468"
+    # bibtex: "/assets/publications/2025_FaviComp/bibtex.txt"
+    selected: y
   - title: "Familiarity-aware Evidence Compression for Retrieval Augmented Generation"
     image: "/assets/publications/2025_FaviComp/main.png"
     authors: "<b>Dongwon Jung</b>, Qin Liu, Tenghao Huang, Ben Zhou, Muhao Chen"
