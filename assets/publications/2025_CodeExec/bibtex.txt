@@ -1,0 +1,6 @@
+@article{jung2025code,
+  title={Code Execution as Grounded Supervision for LLM Reasoning},
+  author={Jung, Dongwon and Zhou, Wenxuan and Chen, Muhao},
+  journal={arXiv preprint arXiv:2506.10343},
+  year={2025}
+}
