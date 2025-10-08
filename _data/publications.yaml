@@ -1,4 +1,11 @@
 papers:
+  - title: "Optimizing Test-Time Compute for Multi-Agent Systems"
+    image: ""
+    authors: "<b>Dongwon Jung</b>"
+    venue: "Preprint"
+    paper_pdf: ""
+    bibtex: ""
+    selected: y
   - title: "Code Execution as Grounded Supervision for LLM Reasoning"
     image: "/assets/publications/2025_CodeExec/figure1.png"
     authors: "<b>Dongwon Jung</b>, Wenxuan Zhou, Muhao Chen"
