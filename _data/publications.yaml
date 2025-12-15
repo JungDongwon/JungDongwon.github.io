@@ -1,9 +1,9 @@
 papers:
-  - title: "Optimizing Test-Time Compute for Multi-Agent Systems"
-    image: ""
-    authors: "<b>Dongwon Jung</b>"
+  - title: "FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized Collaboration"
+    image: "/assets/publications/2025_FutureWeaver/main.png"
+    authors: "<b>Dongwon Jung</b>, Peng Shi, Yi Zhang"
     venue: "Preprint"
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2512.11213"
     bibtex: ""
     selected: y
   - title: "Code Execution as Grounded Supervision for LLM Reasoning"
