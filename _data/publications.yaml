@@ -7,11 +7,11 @@ papers:
     bibtex: "/assets/publications/2025_FutureWeaver/bibtex.txt"
     selected: y
   - title: "FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models"
-    image: "/assets/publications/2026_FREIDA/main.png"
+    image: "/assets/publications/2026_FRIEDA/main.png"
     authors: "Jiyoon Pyo, Yuankun Jiao, <b>Dongwon Jung</b>, Zekun Li, Leeje Jang, Sofia Kirsanova, Jina Kim, Yijun Lin, Qin Liu, Junyi Xie, Hadi Askari, Nan Xu, Muhao Chen, Yao-Yi Chiang"
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2512.08016"
-    bibtex: "/assets/publications/2026_FREIDA/bibtex.txt"
+    bibtex: "/assets/publications/2026_FRIEDA/bibtex.txt"
     selected: y
   - title: "Code Execution as Grounded Supervision for LLM Reasoning"
     image: "/assets/publications/2025_CodeExec/figure1.png"
