@@ -1,0 +1,6 @@
+@article{pyo2025frieda,
+  title={FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models},
+  author={Pyo, Jiyoon and Jiao, Yuankun and Jung, Dongwon and Li, Zekun and Jang, Leeje and Kirsanova, Sofia and Kim, Jina and Lin, Yijun and Liu, Qin and Xie, Junyi and others},
+  journal={arXiv preprint arXiv:2512.08016},
+  year={2025}
+}

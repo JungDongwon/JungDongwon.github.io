@@ -1,0 +1,6 @@
+@article{jung2025futureweaver,
+  title={FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized Collaboration},
+  author={Jung, Dongwon and Shi, Peng and Zhang, Yi},
+  journal={arXiv preprint arXiv:2512.11213},
+  year={2025}
+}
