@@ -1,0 +1,6 @@
+@article{mo2025redcoder,
+  title={Redcoder: Automated multi-turn red teaming for code llms},
+  author={Mo, Wenjie Jacky and Liu, Qin and Wen, Xiaofei and Jung, Dongwon and Askari, Hadi and Zhou, Wenxuan and Zhao, Zhe and Chen, Muhao},
+  journal={arXiv preprint arXiv:2507.22063},
+  year={2025}
+}
