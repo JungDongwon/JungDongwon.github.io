@@ -1,4 +1,11 @@
 papers:
+  - title: "Adaptive Latent Agentic Reasoning"
+    image: "/assets/publications/2026_ALAR/main.pdf"
+    authors: "<b>Dongwon Jung</b>, Peng Shi, Yi Zhang, Junshan Zhang, Muhao Chen"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/pdf/2606.02871"
+    bibtex: "/assets/publications/2026_ALAR/bibtex.txt"
+    selected: y
   - title: "FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized Collaboration"
     image: "/assets/publications/2025_FutureWeaver/main.png"
     authors: "<b>Dongwon Jung</b>, Peng Shi, Yi Zhang"

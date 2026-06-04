@@ -1,0 +1,6 @@
+@inproceedings{Jung2026AdaptiveLA,
+  title={Adaptive Latent Agentic Reasoning},
+  author={Dongwon Jung and Peng Shi and Yi Zhang and Junshan Zhang and Muhao Chen},
+  year={2026},
+  url={https://api.semanticscholar.org/CorpusID:288863264}
+}

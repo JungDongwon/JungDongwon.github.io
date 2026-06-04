@@ -1,4 +1,10 @@
 experiences:
+- place: "Microsoft Research"
+  time: "Jun. 2026 - Sep. 2026"
+  title: "Research Intern"
+  subtitle: "Deep Learning Group"
+  category: "work"
+
 - place: "Amazon AWS"
   time: "Jun. 2025 - Sep. 2025"
   title: "Applied Scientist Intern"
