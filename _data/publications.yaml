@@ -1,6 +1,6 @@
 papers:
   - title: "Adaptive Latent Agentic Reasoning"
-    image: "/assets/publications/2026_ALAR/main.pdf"
+    image: "/assets/publications/2026_ALAR/main.png"
     authors: "<b>Dongwon Jung</b>, Peng Shi, Yi Zhang, Junshan Zhang, Muhao Chen"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/pdf/2606.02871"
