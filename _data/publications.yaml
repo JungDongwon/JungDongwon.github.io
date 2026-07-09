@@ -9,7 +9,7 @@ papers:
   - title: "FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized Collaboration"
     image: "/assets/publications/2025_FutureWeaver/main.png"
     authors: "<b>Dongwon Jung</b>, Peng Shi, Yi Zhang"
-    venue: "Preprint"
+    venue: "COLM 2026"
     paper_pdf: "https://arxiv.org/pdf/2512.11213"
     bibtex: "/assets/publications/2025_FutureWeaver/bibtex.txt"
     selected: y
