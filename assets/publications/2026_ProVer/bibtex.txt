@@ -1,0 +1,6 @@
+@article{jung2026targeting,
+  title={Targeting Pivotal Decisions for Credit Assignment in Agentic Reinforcement Learning},
+  author={Jung, Dongwon and Ramesh, Hemanth Neelgund and Wang, Yifan and Li, Xiaomin and Hao, Yuexing and Hu, Yu and Chen, Muhao and Chandrasekaran, Varun and Banburski-Fahey, Andrzej and Lanier, Jaron},
+  journal={arXiv preprint arXiv:2609.36178},
+  year={2026}
+}
