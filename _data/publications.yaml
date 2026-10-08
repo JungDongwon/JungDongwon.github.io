@@ -1,6 +1,6 @@
 papers:
   - title: "Targeting Pivotal Decisions for Credit Assignment in Agentic Reinforcement Learning"
-    image: "/assets/publications/2026_ProVer/main.pdf"
+    image: "/assets/publications/2026_ProVer/main.png"
     authors: "<b>Dongwon Jung</b>, Hemanth Neelgund Ramesh, Yifan Wang, Xiaomin Li, Yuexing Hao, Yu Hu, Muhao Chen, Varun Chandrasekaran, Andrzej Banburski-Fahey, Jaron Lanier"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/pdf/2609.36178"
